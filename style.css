@@ -18,7 +18,7 @@ figcaption {
 }
 
 nav a {
-  background-color: #00D1D1;
+  background-color: grey;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -36,7 +36,7 @@ nav a {
 #details div{
   display: block; 
   float: left;
-  background-color: #FF796E;
+  background-color: red;
   width: 25%;
   text-align: center;
 }
